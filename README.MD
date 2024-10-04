@@ -9,3 +9,4 @@ Make sure your environment includes the following:
 • matplotlib
 • scikit-learn
 • open3d
+• and all the requirements of vvrpywork found in vvrpywork/requirements.txt
